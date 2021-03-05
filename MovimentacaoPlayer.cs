@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     Vector3 m_Movement;
 
     //Armazenamento de rotações
-    Quaternio m_Rotation = Quaternion.indentity;
+    Quaternion m_Rotation = Quaternion.indentity;
     
     void Start()
     {
